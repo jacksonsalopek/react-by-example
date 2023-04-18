@@ -1,0 +1,1176 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CommonHooks > should match snapshot (default) 1`] = `
+<div
+  data-testid="common-hooks"
+>
+  <div>
+    Item Total: 
+    3
+  </div>
+  <button
+    class="sc-beqWaB idsqWt"
+  >
+    Add Item
+  </button>
+  <ul>
+    <li>
+      Item 1
+       - 
+      1
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 2
+       - 
+      2
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`CommonHooks > should match snapshot (with lots of items) 1`] = `
+<div
+  data-testid="common-hooks"
+>
+  <div>
+    Item Total: 
+    4950
+  </div>
+  <button
+    class="sc-beqWaB idsqWt"
+  >
+    Add Item
+  </button>
+  <ul>
+    <li>
+      Item 0
+       - 
+      0
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 1
+       - 
+      1
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 2
+       - 
+      2
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 3
+       - 
+      3
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 4
+       - 
+      4
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 5
+       - 
+      5
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 6
+       - 
+      6
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 7
+       - 
+      7
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 8
+       - 
+      8
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 9
+       - 
+      9
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 10
+       - 
+      10
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 11
+       - 
+      11
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 12
+       - 
+      12
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 13
+       - 
+      13
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 14
+       - 
+      14
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 15
+       - 
+      15
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 16
+       - 
+      16
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 17
+       - 
+      17
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 18
+       - 
+      18
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 19
+       - 
+      19
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 20
+       - 
+      20
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 21
+       - 
+      21
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 22
+       - 
+      22
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 23
+       - 
+      23
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 24
+       - 
+      24
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 25
+       - 
+      25
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 26
+       - 
+      26
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 27
+       - 
+      27
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 28
+       - 
+      28
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 29
+       - 
+      29
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 30
+       - 
+      30
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 31
+       - 
+      31
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 32
+       - 
+      32
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 33
+       - 
+      33
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 34
+       - 
+      34
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 35
+       - 
+      35
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 36
+       - 
+      36
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 37
+       - 
+      37
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 38
+       - 
+      38
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 39
+       - 
+      39
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 40
+       - 
+      40
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 41
+       - 
+      41
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 42
+       - 
+      42
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 43
+       - 
+      43
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 44
+       - 
+      44
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 45
+       - 
+      45
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 46
+       - 
+      46
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 47
+       - 
+      47
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 48
+       - 
+      48
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 49
+       - 
+      49
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 50
+       - 
+      50
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 51
+       - 
+      51
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 52
+       - 
+      52
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 53
+       - 
+      53
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 54
+       - 
+      54
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 55
+       - 
+      55
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 56
+       - 
+      56
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 57
+       - 
+      57
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 58
+       - 
+      58
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 59
+       - 
+      59
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 60
+       - 
+      60
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 61
+       - 
+      61
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 62
+       - 
+      62
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 63
+       - 
+      63
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 64
+       - 
+      64
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 65
+       - 
+      65
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 66
+       - 
+      66
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 67
+       - 
+      67
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 68
+       - 
+      68
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 69
+       - 
+      69
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 70
+       - 
+      70
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 71
+       - 
+      71
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 72
+       - 
+      72
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 73
+       - 
+      73
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 74
+       - 
+      74
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 75
+       - 
+      75
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 76
+       - 
+      76
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 77
+       - 
+      77
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 78
+       - 
+      78
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 79
+       - 
+      79
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 80
+       - 
+      80
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 81
+       - 
+      81
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 82
+       - 
+      82
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 83
+       - 
+      83
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 84
+       - 
+      84
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 85
+       - 
+      85
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 86
+       - 
+      86
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 87
+       - 
+      87
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 88
+       - 
+      88
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 89
+       - 
+      89
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 90
+       - 
+      90
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 91
+       - 
+      91
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 92
+       - 
+      92
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 93
+       - 
+      93
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 94
+       - 
+      94
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 95
+       - 
+      95
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 96
+       - 
+      96
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 97
+       - 
+      97
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 98
+       - 
+      98
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+    <li>
+      Item 99
+       - 
+      99
+      <button
+        class="sc-beqWaB fRJOXc"
+        color="red"
+      >
+        Remove
+      </button>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`CommonHooks > should match snapshot (with no items) 1`] = `
+<div
+  data-testid="common-hooks"
+>
+  <div>
+    Item Total: 
+    0
+  </div>
+  <button
+    class="sc-beqWaB idsqWt"
+  >
+    Add Item
+  </button>
+  <ul />
+</div>
+`;
